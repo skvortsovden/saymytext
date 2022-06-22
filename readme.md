@@ -2,6 +2,12 @@
 
 The package for synthesizing text to speech and play it.
 
+## Installation
+
+```
+pip install saymytext
+```
+
 ## Usage
 
 ```python
