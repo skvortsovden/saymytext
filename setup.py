@@ -3,7 +3,7 @@ import os
 import io
 
 NAME = 'saymytext'
-VERSION = '0.8'
+VERSION = '1.0'
 DESCRIPTION = 'A text to speech syntesizer'
 # Import the README and use it as the long-description.
 # Note: this will only work if 'README.md' is present in your MANIFEST.in file!
