@@ -21,7 +21,6 @@ text.say()
 
 |   |   |
 |---|---|
-|   |   |
 |af |Afrikaans |
 |ar |Arabic | 
 |bg |Bulgarian | 
