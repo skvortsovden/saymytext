@@ -13,7 +13,7 @@ pip install saymytext
 ```python
 from saymytext import SayMyText
 
-text = SayMyText"привіт", 'uk')
+text = SayMyText("привіт", 'uk')
 text.say()
 ```
 
